@@ -1,0 +1,12 @@
+body{
+text-align: center;
+background-color: aqua;
+
+}
+ul{
+position: fixed;
+background: white;
+width: 100%;
+top: 0px;
+z-index: 10;
+}
